@@ -1,5 +1,8 @@
 # Filter
 
+[![Build Status](https://travis-ci.org/kqummp/Filter.svg?branch=master)](https://travis-ci.org/kqummp/Filter)
+[![Coverage Status](https://coveralls.io/repos/github/kqummp/Filter/badge.svg?branch=master)](https://coveralls.io/github/kqummp/Filter?branch=master)
+
 Filter
 
 ## Usage
